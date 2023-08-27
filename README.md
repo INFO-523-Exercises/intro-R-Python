@@ -1,6 +1,6 @@
-# R/Python Exercise 1
+# Intro to R/Python
 
-Repository for R/Python Exercise 1 from the course: INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism
+Repository for Intro to R/Python from the course: INFO 523 - Data Mining and Discovery taught by Dr. Greg Chism
 
 ## Instructions
 
@@ -15,8 +15,8 @@ Repository for R/Python Exercise 1 from the course: INFO 523 - Data Mining and D
    - A Google Collab project
    
 ### 2. Go to the web page for the exercise:
-   If Using R: found [here](https://datamineaz.org/slides/week2/rexercise1).
-   If Using Python: found [here](https://datamineaz.org/python/dataexplorationpython)
+   If Using R: found [here](https://datamineaz.org/slides/week1/week1-2-r-tutorial).
+   If Using Python: found [here, intro to Python](https://datamineaz.org/python/pythontutorial) and [here, intro to Pandas and Numpy](https://datamineaz.org/python/intropandasnumpy)
    
 ### 3. Reproduce the exercise in a new Quarto Document or Jupyter Notebook
   - Hint: Quarto can render a document into a Jupyter Notebook. I recommend just using Quarto unless you're using Google Collab. See tutorial documentation on available formats [here]([https://posit.cloud/](https://quarto.org/docs/output-formats/all-formats.html)https://quarto.org/docs/output-formats/all-formats.html).
